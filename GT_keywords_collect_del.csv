@@ -1,0 +1,12 @@
+,TX,CA,EN,ES,DA,HI,HC,YM,NQ,XM,CL,HO,XB,NG,HG,GC,PL,SV,WC,CN,CT,KC,SB,SY,JY,SF,BP,AD,EC,DX,energy,metal all,metal
+0,台指期貨,a50,日経平均株価,s&p 500,dax aktie,恆生指數,h股,a50,nasdaq index,börse,light oil,heating oil,rbob gasoline,natural gas price,hot copper,gold futures,platinum price,silver price,wheat futures,cbot corn,cotton futures,coffee futures,sugar futures,soybean futures,jpy,chf usd,gbp,aud,eur,dxy,opec,LME,LME
+1,期貨,,株価 日経 平均 株価,s&p 500 index,der aktionär,hang seng,h share,cross mean all,nasdaq stock price,dax kurs,crude oil price,oil prices,gas,,price of copper,gold price,platinum gold price,silver gold price,,corn futures,,,,cbot soybean,jpy usd,chf to usd,gbp usd,usd aud,eur usd,dxy chart,,gold to silver ratio,Monetary policy
+2,道瓊指數,,日経 平均,s&p 500 futures,börse,,,cross mean del,nasdaq 100,dax 30,crude oil price nymex,heating oil price,gasoline price,,copper price today,gold stock price,gold,gold price,,cme corn,,,,cbot soybean futures,usd to jpy,chf eur,usd to gbp,aud to usd,eur to usd,,,Monetary policy,gold hedge
+3,美股,,Nikkei 225 Index,s&p 500 price,dax aktuell,,,,,dax realtime,,,,,,,gold price,price silver today,,,,,,soybean prices,usd jpy,chf in usd,gbp eur,aud inr,gbp eur,,,gold hedge,gold china
+4,台指結算,,nikkei 225,the s&p 500,dax kurs,,,,,dax,,,,,,,price of platinum,price of silver,,,,,,,usd in jpy,chf gbp,gbp inr,,,,,gold china,gold australia
+5,台指選擇權,,nikkei index,etf s&p 500,dax 30,,,,,,,,,,,,,spot silver,,,,,,,,,inr to gbp,,,,,gold russia,
+6,台指期結算,,,,dax realtime,,,,,,,,,,,,,silver spot price,,,,,,,,,euro gbp,,,,,gold australia,
+7,台股指數,,,,dax,,,,,,,,,,,,,gold price today,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,gold silver price today,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,silver rate,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,,,price for silver,,,,,,,,,,,,,,,
